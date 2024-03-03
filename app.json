@@ -1,9 +1,9 @@
 {
-  "name": "Zull-Userbot",
-  "description": "[Zull-Userbot] Selamat pakai, Luh songong gw Cipok",
+  "name": "Aether-Userbot",
+  "description": "[Aether-Userbot] Selamat pakai, Luh songong gw Cipok",
   "logo": "https://telegra.ph/file/c394b9d3247403031589d.png",
-  "keywords": ["telegram", "userbot", "Zull-Userbot", "modular", "python"],
-  "repository": "https://github.com/cacacr4ck/telethon",
+  "keywords": ["telegram", "userbot", "Aether-Userbot", "modular", "python"],
+  "repository": "https://github.com/yushafahadd17/telethon",
   "stack": "container",
   "env": {
     "API_KEY": {
